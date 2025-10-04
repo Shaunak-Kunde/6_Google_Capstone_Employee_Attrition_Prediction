@@ -6,8 +6,6 @@ This project analyzes employee attrition using a machine learning approach. I co
 
 - `project_9_google_employee_attrition_prediction.ipynb`: Jupyter notebook containing all steps from data loading and preprocessing to model training and evaluation.
 
----
-
 ## 📌 Project Objectives
 
 - Explore and visualize employee attrition data
